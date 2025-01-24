@@ -2,3 +2,4 @@ app/sambennett/toolbox/SecondaryController.class
 module-info.class
 app/sambennett/toolbox/App.class
 app/sambennett/toolbox/PrimaryController.class
+app/sambennett/toolbox/GetDetails.class
